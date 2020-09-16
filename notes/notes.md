@@ -3,7 +3,8 @@
 ### Basic Linux/Unix Shell Commands
 1. [`dirname`](https://www.howtoforge.com/linux-dirname-command/): basename
     * [tips you should know](https://superuser.com/a/708042)
-2. [Basic command summary](https://swcarpentry.github.io/shell-novice/reference/)
+2. [`set`](http://linuxcommand.org/lc3_man_pages/seth.html): set or unset values of shell options and positional parameters.    
+3. [Basic command summary](https://swcarpentry.github.io/shell-novice/reference/)
 
 ### $0, $1, $2, etc
 1. https://bash.cyberciti.biz/guide/$1
